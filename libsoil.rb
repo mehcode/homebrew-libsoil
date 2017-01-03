@@ -4,7 +4,7 @@ class Libsoil < Formula
   homepage 'https://github.com/smibarber/libSOIL'
   url 'https://codeload.github.com/smibarber/libSOIL/zip/master'
   version '1.07'
-  sha1 'a42baf594c02bdeeffed9fda4f0666bf3bd1725a'
+  sha256 'f1bde5bd3cf0aba85da210302ff0c829ed0a239a38ae3c48cc9bcdae62c1ae94'
 
   def patches
     DATA
